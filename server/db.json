@@ -1,14 +1,17 @@
 {
-    "doors": [
-        {
-            "id": "1",
-            "name": "Front Door",
-            "status": "open"
-        },
-        {
-            "id": "2",
-            "name": "Back Door",
-            "status": "closed"
-        }
-    ]
+  "doors": [
+    {
+      "id": "1",
+      "name": "Front Gate",
+      "status": "open",
+      "formData": {
+        "name": "front gate"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Back Door",
+      "status": "closed"
+    }
+  ]
 }
